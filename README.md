@@ -10,4 +10,4 @@ _feel free to take a look at my college projects :)_
 
 ---
 
-C, C++, Python, Octave, LaTex.
+C, C++, Python, MatLab/Octave, LaTex.
