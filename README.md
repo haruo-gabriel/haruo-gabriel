@@ -13,21 +13,29 @@ _feel free to take a look at my college projects :)_
 C, C++, Python, MatLab/Octave, LaTex.
 
 ---
-## 2022ii
+## [2022i](github.com/haruo-gabriel/bcc2022i)
+### MAC0110 - Introdução à Computação (BCC)
+* EP1: jogo da forca em C
+* EP2: simulação de um sistema de monitoramento de área em C
+* EP3: processamento de imagens em C
+
+## [2022ii](github.com/haruo-gabriel/bcc2022ii)
 
 ### MAT0122 - Álgebra Linear
-* [EXs: resoluções dos "Exercicios.pdf"](bcc2022ii/mat0122)
-* [EP1: fatorando inteiros](bcc2022ii/mat0122-ep1)
+* EXs: resoluções dos "Exercicios.pdf"
+* EP1: fatorando inteiros
 ### MAC0121 - Algoritmos e Estruturas de Dados I
-* [EP1: conjectura de Collatz](bcc2022ii/mac0121-ep1)
-* [EP2: solucionador de palavra-cruzada](bcc2022ii/mac0121-ep2)
-* [EP3: estatísticas de algoritmos de ordenação](bcc2022ii/mac0121-ep3)
+* EP1: conjectura de Collatz
+* EP2: solucionador de palavra-cruzada
+* EP3: estatísticas de algoritmos de ordenação
 ### MAC0239 - Lógica e Verificação de Programas
-* [EP1: Mastermind solver com MiniSAT](bcc2022ii/mac0239-ep1)
-* [EP2: uma prova em lógica de primeira ordem](bcc2022ii/mac0239-ep2)
+* EP1: Mastermind solver com MiniSAT
+* EP2: uma prova em lógica de primeira ordem
 ### MAC0216 - Técnicas de Programação I (não-finalizado)
-* [EP1: operações com números primos em assembly x86_64](bcc2022ii/mac0216-ep1)
+* EP1: operações com números primos em assembly x86_64
 
 ## 2023ii
-### MAC0216 - Técnicas de Programação I (não-finalizado)
-* [EP1: hashing em assembly x86_64](/mac0216-ep1-2023ii)
+### MAC0216 - Técnicas de Programação I
+* [EP1: hashing em assembly x86_64](github.com/haruo-gabriel/mac0216-ep1-2023ii)
+* [EP2: plataforma de mensagem local em bash](github.com/haruo-gabriel/mac0216-ep2-2023ii)
+* [EP3: desenvolvimento de libs em C](github.com/haruo-gabriel/mac0216-ep3-2023ii)
