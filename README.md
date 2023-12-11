@@ -13,13 +13,13 @@ _feel free to take a look at my college projects :)_
 C, C++, Python, MatLab/Octave, LaTex.
 
 ---
-## [2022i](bcc2022i)
+## [2022i](https://github.com/haruo-gabriel/bcc2022i)
 ### MAC0110 - Introdução à Computação (BCC)
 * EP1: jogo da forca em C
 * EP2: simulação de um sistema de monitoramento de área em C
 * EP3: processamento de imagens em C
 
-## [2022ii](github.com/haruo-gabriel/bcc2022ii)
+## [2022ii](https://github.com/haruo-gabriel/bcc2022ii)
 
 ### MAT0122 - Álgebra Linear
 * EXs: resoluções dos "Exercicios.pdf"
@@ -36,6 +36,6 @@ C, C++, Python, MatLab/Octave, LaTex.
 
 ## 2023ii
 ### MAC0216 - Técnicas de Programação I
-* [EP1: hashing em assembly x86_64](github.com/haruo-gabriel/mac0216-ep1-2023ii)
-* [EP2: plataforma de mensagem local em bash](github.com/haruo-gabriel/mac0216-ep2-2023ii)
-* [EP3: desenvolvimento de libs em C](github.com/haruo-gabriel/mac0216-ep3-2023ii)
+* [EP1: hashing em assembly x86_64](https://github.com/haruo-gabriel/mac0216-ep1-2023ii)
+* [EP2: plataforma de mensagem local em bash](https://github.com/haruo-gabriel/mac0216-ep2-2023ii)
+* [EP3: desenvolvimento de libs em C](https://github.com/haruo-gabriel/mac0216-ep3-2023ii)
