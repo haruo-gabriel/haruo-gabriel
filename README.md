@@ -39,6 +39,8 @@ C, C++, assembly x86_64, bash, Python/Jupyter, MatLab/Octave, LaTex.
 ### MAC0105 - Fundamentos da Matemática para Computação
 * [exercícios e resoluções](https://github.com/haruo-gabriel/mac0105-exercicios-2023i)
 ### MAC0323 - Algoritmos e Estruturas de Dados II
+* [EP1: gerenciamento de aeroportos em C++](https://github.com/haruo-gabriel/mac0323-ep1-2023i)
+* [EP2: tabela de símbolos em C++](https://github.com/haruo-gabriel/mac0323-ep2-2023i)
 * [EP3: grafos e reconstrução de DNA em C++](https://github.com/haruo-gabriel/mac0323-ep3-2023i)
 * [EP4: reconhecimento de expressões regulares em C++](https://github.com/haruo-gabriel/mac0323-ep4-2023i)
 
