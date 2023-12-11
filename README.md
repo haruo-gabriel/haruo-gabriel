@@ -13,7 +13,7 @@ _feel free to take a look at my college projects :)_
 C, C++, Python, MatLab/Octave, LaTex.
 
 ---
-## [2022i](github.com/haruo-gabriel/bcc2022i)
+## [2022i](bcc2022i)
 ### MAC0110 - Introdução à Computação (BCC)
 * EP1: jogo da forca em C
 * EP2: simulação de um sistema de monitoramento de área em C
