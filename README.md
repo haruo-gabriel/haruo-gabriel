@@ -10,7 +10,7 @@ _feel free to take a look at my college projects :)_
 
 ---
 
-C, C++, Python, MatLab/Octave, LaTex.
+C, C++, assembly x86_64, bash, Python/Jupyter, MatLab/Octave, LaTex.
 
 ---
 ## [2022i](https://github.com/haruo-gabriel/bcc2022i)
