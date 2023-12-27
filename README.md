@@ -52,3 +52,6 @@ C, C++, assembly x86_64, bash, Python/Jupyter, MatLab/Octave, LaTex.
 * [EP3: desenvolvimento de libs em C](https://github.com/haruo-gabriel/mac0216-ep3-2023ii)
 ### MAC0317 - Introdução ao Processamento de Sinais Digitais
 * [material em Jupyter Notebooks](https://github.com/haruo-gabriel/mac0317-2023ii)
+### MAC0316 - Conceitos Fundamentais de Linguagens de Programação
+* [EP1: corrigindo um interpretador em Haskell](https://github.com/haruo-gabriel/mac0316-ep1-2023ii)
+* [EP2: implementando "if" no interpretador em Haskell](https://github.com/haruo-gabriel/mac0316-ep2-2023ii) 
