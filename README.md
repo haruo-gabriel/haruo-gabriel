@@ -17,12 +17,13 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 ## 2024i
 
 ### MAC0210 - Laboratório de Métodos Numéricos
-
+* 
 ### MAC0215 - Atividade Curricular em Pesquisa
-
+*
 ### MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
-
+*
 ### MAC0422 - Sistemas Operacionais
+*
 
 ## 2023ii
 
@@ -62,7 +63,7 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 ### MAT0122 - Álgebra Linear
 * EXs: resoluções dos "Exercicios.pdf" em LaTex e PDFs
 * EP1: fatorando inteiros em Python
-* 
+
 ## [2022i](https://github.com/haruo-gabriel/bcc2022i)
 ### MAC0110 - Introdução à Computação (BCC)
 * EP1: jogo da forca em C
