@@ -14,14 +14,12 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 
 ## 2024i
 
-### MAC0210 - Laboratório de Métodos Numéricos
-* 
-### MAC0215 - Atividade Curricular em Pesquisa
-*
 ### MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
 *
 ### MAC0422 - Sistemas Operacionais
-*
+* [EP1: Shell e Simulador de processos](https://github.com/haruo-gabriel/mac0422-ep1-2024i)
+* [EP2: Simulação de corrida multithread](https://github.com/haruo-gabriel/mac0422-ep2-2024i)
+* [EP3: Simulação de sistemas de arquivos](https://github.com/haruo-gabriel/mac0422-ep3-2024i)
 
 ## 2023ii
 
