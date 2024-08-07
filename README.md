@@ -1,10 +1,10 @@
 # gabriel haruo
 
-Graduando em Ciência da Computação no IME-USP.
-Seja livre para dar uma olhada nos meus projetos de faculdade :)
+graduando em Ciência da Computação no IME-USP.
+seja livre para dar uma olhada nos meus projetos de faculdade :)
 
 _Computer Science undergrad at IME-USP._
-_Feel free to take a look at my college projects :)_
+_feel free to take a look at my college projects :)_
 
 ---
 
@@ -30,9 +30,9 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 
 ### MAC0422 - Sistemas Operacionais
 
-* [EP1: Shell e Simulador de processos](https://github.com/haruo-gabriel/mac0422-ep1-2024i)
-* [EP2: Simulação de corrida multithread](https://github.com/haruo-gabriel/mac0422-ep2-2024i)
-* [EP3: Simulação de sistemas de arquivos](https://github.com/haruo-gabriel/mac0422-ep3-2024i)
+* [EP1: shell e simulador de processos](https://github.com/haruo-gabriel/mac0422-ep1-2024i)
+* [EP2: simulação de corrida multithread](https://github.com/haruo-gabriel/mac0422-ep2-2024i)
+* [EP3: simulação de sistemas de arquivos](https://github.com/haruo-gabriel/mac0422-ep3-2024i)
 
 ## 2023ii
 
