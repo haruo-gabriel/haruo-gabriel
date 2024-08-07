@@ -81,6 +81,7 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 * EP1: operações com números primos em assembly x86_64
 
 ### MAC0239 - Lógica e Verificação de Programas
+
 * EP1: Mastermind solver com MiniSAT em C
 * EP2: uma prova em lógica de primeira ordem em LaTex
 
