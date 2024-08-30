@@ -8,7 +8,7 @@ _feel free to take a look at my college projects :)_
 
 ---
 
-C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
+assembly x86_64, bash, C/C++, Java, JavaScript/HTML/CSS, LaTex, Python/Jupyter, Octave/MatLab.
 
 ---
 
@@ -26,7 +26,7 @@ C, C++, Python/Jupyter, MatLab/Octave, LaTex, bash, assembly x86_64.
 
 ### MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
 
-*
+* [NektarApp: plataforma web de pesquisa de filmes](https://gitlab.com/hariac/nektarapp)
 
 ### MAC0422 - Sistemas Operacionais
 
