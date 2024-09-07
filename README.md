@@ -8,7 +8,7 @@ _feel free to take a look at my college projects :)_
 
 ---
 
-assembly x86_64, bash, C/C++, Java, JavaScript/HTML/CSS, LaTex, Python/Jupyter, Octave/MatLab.
+assembly x86_64, bash, C/C++, Java, JavaScript/HTML/CSS, LaTex, PureData, Python/Jupyter, Octave/MatLab.
 
 ---
 
