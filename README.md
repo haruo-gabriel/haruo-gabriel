@@ -34,6 +34,10 @@ assembly x86_64, bash, C/C++, Java, JavaScript/HTML/CSS, LaTex, Python/Jupyter, 
 * [EP2: simulação de corrida multithread](https://github.com/haruo-gabriel/mac0422-ep2-2024i)
 * [EP3: simulação de sistemas de arquivos](https://github.com/haruo-gabriel/mac0422-ep3-2024i)
 
+### USPGameDev - Portal2D
+
+* [Portal2D: jogo baseado no título Portal](https://gitlab.com/uspgamedev/treinamento/2024-1-portal-2d)
+
 ## 2023ii
 
 ### MAC0216 - Técnicas de Programação I
