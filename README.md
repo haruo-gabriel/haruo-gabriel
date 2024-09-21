@@ -12,6 +12,12 @@ assembly x86_64, bash, C/C++, Haskell, JavaScript/HTML/CSS, LaTex, PureData, Pyt
 
 ---
 
+## Projetos em andamento
+
+- [VORPAL (fork)](https://github.com/haruo-gabriel/vorpal)
+
+---
+
 ## 2024ii
 
 ### MAC0337 - Computação Musical
