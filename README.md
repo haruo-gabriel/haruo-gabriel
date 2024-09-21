@@ -14,7 +14,7 @@ assembly x86_64, bash, C/C++, Haskell, JavaScript/HTML/CSS, LaTex, PureData, Pyt
 
 ## Projetos em andamento
 
-- [VORPAL (fork)](https://github.com/haruo-gabriel/vorpal)
+- [VORPAL - A game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
 
 ---
 
