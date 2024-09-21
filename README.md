@@ -6,8 +6,6 @@ seja livre para dar uma olhada nos meus projetos de faculdade :)
 _Computer Science undergrad at IME-USP._
 _feel free to take a look at my college projects :)_
 
----
-
 assembly x86_64, bash, C/C++, Haskell, JavaScript/HTML/CSS, LaTex, PureData, Python/Jupyter, Octave/MatLab.
 
 ---
@@ -15,8 +13,6 @@ assembly x86_64, bash, C/C++, Haskell, JavaScript/HTML/CSS, LaTex, PureData, Pyt
 ## Projetos em andamento
 
 - [VORPAL - A game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
-
----
 
 ## 2024ii
 
