@@ -84,10 +84,6 @@ _feel free to take a look at my college projects :)_
 * [EP2: solucionador de palavra-cruzada em C](https://github.com/haruo-gabriel/mac0121-ep2-2022ii)
 * [EP3: estatísticas de algoritmos de ordenação em C](https://github.com/haruo-gabriel/mac0121-ep3-2022ii)
 
-### MAC0216 - Técnicas de Programação I
-
-* EP1: operações com números primos em assembly x86_64
-
 ### MAC0239 - Lógica e Verificação de Programas
 
 * [EP1: Mastermind solver com MiniSAT em C](https://github.com/haruo-gabriel/mac0239-ep1-2022ii)
