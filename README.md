@@ -7,8 +7,6 @@ _Computer Science undergrad at IME-USP._
 _feel free to take a look at my college projects :)_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=true&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7)](https://github.com/anuraghazra/github-readme-stats)
-  
----
 
 ## Projetos em andamento
 
