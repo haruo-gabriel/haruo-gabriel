@@ -57,7 +57,7 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0317 - Introdução ao Processamento de Sinais Digitais
 
-* [material em Jupyter Notebooks](https://github.com/haruo-gabriel/mac0317-2023ii)
+* [material em Jupyter Notebooks](https://github.com/haruo-gabriel/mac0317-material-2023ii)
 
 ### MAC0338 - Análise de Algoritmos
 
