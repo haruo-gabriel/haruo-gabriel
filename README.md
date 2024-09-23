@@ -6,9 +6,7 @@ seja livre para dar uma olhada nos meus projetos de faculdade :)
 _Computer Science undergrad at IME-USP._
 _feel free to take a look at my college projects :)_
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_title=true&hide_progress=false&layout=compact&langs_count=16&theme=transparent&card_width=1024&size_weight=0.3&count_weight=0.7)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
 
