@@ -31,7 +31,7 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software
 
-* [NektarApp: plataforma web de pesquisa de filmes](https://gitlab.com/hariac/nektarapp)
+* [NektarApp: plataforma web de pesquisa de filmes](https://github.com/haruo-gabriel/nektarapp)
 
 ### MAC0422 - Sistemas Operacionais
 
