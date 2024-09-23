@@ -98,7 +98,7 @@ _feel free to take a look at my college projects :)_
 * EXs: resoluções dos "Exercicios.pdf" em LaTex e PDFs
 * [EP1: fatorando inteiros em Python](https://github.com/haruo-gabriel/mat0122-ep1-2022ii)
 
-## [2022i](https://github.com/haruo-gabriel/bcc2022i)
+## 2022i
 
 ### MAC0110 - Introdução à Computação (BCC)
 
