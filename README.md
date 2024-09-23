@@ -10,7 +10,10 @@ _feel free to take a look at my college projects :)_
 
 ## Projetos em andamento
 
+### Iniciação Científica
 - [VORPAL: a game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
+
+### USPCodeLab - Bootcamp 2024ii
 - [site: **S**ite **I**incrivelmente **T**ransformável e **E**ficiente](https://github.com/haruo-gabriel/site)
 
 ## 2024ii
