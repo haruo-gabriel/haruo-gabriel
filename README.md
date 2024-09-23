@@ -91,7 +91,7 @@ _feel free to take a look at my college projects :)_
 
 ### MAT0122 - Álgebra Linear
 
-* EXs: resoluções dos "Exercicios.pdf" em LaTex e PDFs
+* [EXs: resoluções dos "Exercicios.pdf" em LaTex e PDFs](https://github.com/haruo-gabriel/mat0122-exercicios-2022ii)
 * [EP1: fatorando inteiros em Python](https://github.com/haruo-gabriel/mat0122-ep1-2022ii)
 
 ## 2022i
