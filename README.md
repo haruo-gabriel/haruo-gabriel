@@ -21,7 +21,7 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0413 - Tópicos Avançados de Programação Orientada a Objetos
 
-* 
+* [GameCompass: plataforma web de recomendação de jogos de tabuleiro](https://github.com/haruo-gabriel/gamecompass)
 
 ## 2024i
 
