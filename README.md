@@ -83,7 +83,7 @@ assembly x86_64, bash, C/C++, Haskell, JavaScript/HTML/CSS, LaTex, PureData, Pyt
 * EP2: solucionador de palavra-cruzada em C
 * EP3: estatísticas de algoritmos de ordenação em C
 
-### MAC0216 - Técnicas de Programação I (não-finalizado)
+### MAC0216 - Técnicas de Programação I
 
 * EP1: operações com números primos em assembly x86_64
 
