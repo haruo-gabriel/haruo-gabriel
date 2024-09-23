@@ -80,9 +80,9 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0121 - Algoritmos e Estruturas de Dados I
 
-* [EP1: conjectura de Collatz em C](https://github.com/haruo-gabriel/mac0121-ep1-2022i)
-* [EP2: solucionador de palavra-cruzada em C](https://github.com/haruo-gabriel/mac0121-ep2-2022i)
-* [EP3: estatísticas de algoritmos de ordenação em C](https://github.com/haruo-gabriel/mac0121-ep3-2022i)
+* [EP1: conjectura de Collatz em C](https://github.com/haruo-gabriel/mac0121-ep1-2022ii)
+* [EP2: solucionador de palavra-cruzada em C](https://github.com/haruo-gabriel/mac0121-ep2-2022ii)
+* [EP3: estatísticas de algoritmos de ordenação em C](https://github.com/haruo-gabriel/mac0121-ep3-2022ii)
 
 ### MAC0216 - Técnicas de Programação I
 
@@ -90,8 +90,8 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0239 - Lógica e Verificação de Programas
 
-* [EP1: Mastermind solver com MiniSAT em C](https://github.com/haruo-gabriel/mac0239-ep1-2022i)
-* [EP2: uma prova em lógica de primeira ordem em LaTex](https://github.com/haruo-gabriel/mac0239-ep2-2022i)
+* [EP1: Mastermind solver com MiniSAT em C](https://github.com/haruo-gabriel/mac0239-ep1-2022ii)
+* [EP2: uma prova em lógica de primeira ordem em LaTex](https://github.com/haruo-gabriel/mac0239-ep2-2022ii)
 
 ### MAT0122 - Álgebra Linear
 
