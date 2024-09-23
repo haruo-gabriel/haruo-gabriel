@@ -41,7 +41,7 @@ _feel free to take a look at my college projects :)_
 
 ### USPGameDev - Portal2D
 
-* [Portal2D: jogo baseado no título Portal](https://gitlab.com/uspgamedev/treinamento/2024-1-portal-2d)
+* [Portal2D: jogo baseado no título Portal](https://github.com/haruo-gabriel/portal2d)
 
 ## 2023ii
 
