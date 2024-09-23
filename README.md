@@ -80,9 +80,9 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0121 - Algoritmos e Estruturas de Dados I
 
-* EP1: conjectura de Collatz em C
-* EP2: solucionador de palavra-cruzada em C
-* EP3: estatísticas de algoritmos de ordenação em C
+* [EP1: conjectura de Collatz em C](https://github.com/haruo-gabriel/mac0121-ep1-2022i)
+* [EP2: solucionador de palavra-cruzada em C](https://github.com/haruo-gabriel/mac0121-ep2-2022i)
+* [EP3: estatísticas de algoritmos de ordenação em C](https://github.com/haruo-gabriel/mac0121-ep3-2022i)
 
 ### MAC0216 - Técnicas de Programação I
 
@@ -90,18 +90,18 @@ _feel free to take a look at my college projects :)_
 
 ### MAC0239 - Lógica e Verificação de Programas
 
-* EP1: Mastermind solver com MiniSAT em C
-* EP2: uma prova em lógica de primeira ordem em LaTex
+* [EP1: Mastermind solver com MiniSAT em C](https://github.com/haruo-gabriel/mac0239-ep1-2022i)
+* [EP2: uma prova em lógica de primeira ordem em LaTex](https://github.com/haruo-gabriel/mac0239-ep2-2022i)
 
 ### MAT0122 - Álgebra Linear
 
 * EXs: resoluções dos "Exercicios.pdf" em LaTex e PDFs
-* EP1: fatorando inteiros em Python
+* [EP1: fatorando inteiros em Python](https://github.com/haruo-gabriel/mat0122-ep1-2022ii)
 
 ## [2022i](https://github.com/haruo-gabriel/bcc2022i)
 
 ### MAC0110 - Introdução à Computação (BCC)
 
-* EP1: jogo da forca em C
-* EP2: simulação de um sistema de monitoramento de área em C
-* EP3: processamento de imagens em C
+* [EP1: jogo da forca em C](https://github.com/haruo-gabriel/mac0110-ep1-2022i)
+* [EP2: simulação de um sistema de monitoramento de área em C](https://github.com/haruo-gabriel/mac0110-ep2-2022i)
+* [EP3: processamento de imagens em C](https://github.com/haruo-gabriel/mac0110-ep3-2022i)
