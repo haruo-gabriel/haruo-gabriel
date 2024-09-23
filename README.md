@@ -76,7 +76,7 @@ _feel free to take a look at my college projects :)_
 * [EP3: grafos e reconstrução de DNA em C++](https://github.com/haruo-gabriel/mac0323-ep3-2023i)
 * [EP4: reconhecimento de expressões regulares em C++](https://github.com/haruo-gabriel/mac0323-ep4-2023i)
 
-## [2022ii](https://github.com/haruo-gabriel/bcc2022ii)
+## 2022ii
 
 ### MAC0121 - Algoritmos e Estruturas de Dados I
 
