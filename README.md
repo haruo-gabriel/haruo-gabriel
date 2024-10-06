@@ -6,25 +6,38 @@ seja livre para dar uma olhada nos meus projetos de faculdade :)
 _Computer Science undergrad at IME-USP._
 _feel free to take a look at my college projects :)_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=true&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=dark&size_weight=0.3&count_weight=0.7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&size_weight=0.3&count_weight=0.7"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Projetos em andamento
 
 ### Iniciação Científica
 - [VORPAL: a game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
 
-### USPCodeLab - Bootcamp
-- [site: **S**ite **I**incrivelmente **T**ransformável e **E**ficiente](https://github.com/haruo-gabriel/site)
+
 
 ## 2024ii
 
 ### MAC0337 - Computação Musical
 
-*
+* [EP1: sintetizador e sequenciador](https://github.com/haruo-gabriel/mac0337-ep1-2024ii)
 
 ### MAC0413 - Tópicos Avançados de Programação Orientada a Objetos
 
 * [GameCompass: plataforma web de recomendação de jogos de tabuleiro](https://github.com/haruo-gabriel/gamecompass)
+
+ ### USPCodeLab - Bootcamp criando um ChatBot com MaritacaIA
+
+* [site: **S**ite **I**incrivelmente **T**ransformável e **E**ficiente](https://github.com/haruo-gabriel/site)
 
 ## 2024i
 
