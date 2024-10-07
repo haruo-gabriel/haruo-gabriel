@@ -8,7 +8,7 @@ _feel free to take a look at my college projects :)_
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=dark&size_weight=0.3&count_weight=0.7"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7"
     media="(prefers-color-scheme: dark)"
   />
   <source
