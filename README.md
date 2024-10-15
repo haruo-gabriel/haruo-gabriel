@@ -6,6 +6,8 @@ seja livre para dar uma olhada nos meus projetos de faculdade :)
 _Computer Science undergrad at IME-USP._
 _feel free to take a look at my college projects :)_
 
+visite meu site pessoal em https://haruo-gabriel.github.io *(em desenvolvimento)*
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7"
@@ -21,9 +23,8 @@ _feel free to take a look at my college projects :)_
 ## Projetos em andamento
 
 ### Iniciação Científica
+
 - [VORPAL: a game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
-
-
 
 ## 2024ii
 
