@@ -2,8 +2,6 @@
 
 Graduando em Ciência da Computação no IME-USP. Integrante do grupo de pesquisa de Computação Musical do IME-USP.
 
-Visite meu site pessoal em https://haruo-gabriel.github.io *(em desenvolvimento)*.
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7"
