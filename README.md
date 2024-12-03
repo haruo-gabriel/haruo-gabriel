@@ -1,7 +1,7 @@
 # gabriel haruo
 
-- Graduando em Ciência da Computação no IME-USP
-- Integrante do [grupo de pesquisa em Computação Musical do IME-USP](https://github.com/compmus-ime-usp)
+- Computer Science undergraduate at IME-USP
+- Partner of the [Computer Music Research Group at IME-USP](https://github.com/compmus-ime-usp)
 
 <picture>
   <source
@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-## Projetos em andamento
+## Ongoing Projects
 
-### Iniciação Científica
+### Undergraduate Research
 
 - [VORPAL: a game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
 
