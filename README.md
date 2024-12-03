@@ -27,4 +27,4 @@
 
 ### ime-embarcados-lib
 
-- [ime-embarcados-lib: biblioteca de DSP para processamento de áudio em dispositivos embarcados](https://github.com/viniciusfersil123/ime-embarcados-lib)
+- [ime-embarcados-lib: DSP library for audio processing in embedded devices](https://github.com/viniciusfersil123/ime-embarcados-lib)
