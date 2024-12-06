@@ -1,7 +1,8 @@
 # gabriel haruo
 
 - Computer Science undergraduate at IME-USP
-- Member of the [Computer Music Research Group at IME-USP](https://github.com/compmus-ime-usp)
+- Member of the [Computer Music Research Group](https://github.com/compmus-ime-usp) at IME-USP
+- Member of the [USPAudioTech Extension Group](https://github.com/uspaudiotech) at IME-USP
 
 <picture>
   <source
