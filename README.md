@@ -4,18 +4,6 @@
 - Member of the [Computer Music Research Group](https://github.com/compmus-ime-usp) at IME-USP
 - Member of the [USPAudioTech Extension Group](https://github.com/uspaudiotech) at IME-USP
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&theme=transparent&size_weight=0.3&count_weight=0.7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haruo-gabriel&hide_border=false&border_color=3d444d&hide_title=false&hide_progress=false&layout=compact&langs_count=16&size_weight=0.3&count_weight=0.7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 ## Ongoing Projects
 
 ### Undergraduate Research
