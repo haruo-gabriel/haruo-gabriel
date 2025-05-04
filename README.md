@@ -12,7 +12,7 @@
 
 ### Workshop: Sound Synthesis
 
-- [Do Zero ao Som: Criando Áudio Digital com Python](https://github.com/uspaudiotech/workshop-sintese)
+- [From Zero to Sound: creating digital audio with Python](https://github.com/uspaudiotech/workshop-sintese)
 
 ### Condusom
 
