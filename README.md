@@ -10,6 +10,10 @@
 
 - [VORPAL: a game audio middleware focused on real-time procedural audio _(fork)_](https://github.com/haruo-gabriel/vorpal)
 
+### Workshop: Sound Synthesis
+
+- [Do Zero ao Som: Criando Áudio Digital com Python](https://github.com/uspaudiotech/workshop-sintese)
+
 ### Condusom
 
 - [Condusom: an interactive musical synthesizer that transforms gestures captured by your webcam into a dynamic sonic expression](https://github.com/compmus-ime-usp/condusom)
