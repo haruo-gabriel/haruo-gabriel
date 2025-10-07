@@ -14,10 +14,7 @@
 
 - [From Zero to Sound: creating digital audio with Python](https://github.com/uspaudiotech/workshop-sintese)
 
-### Condusom
+### ¿Música? 20: Art Installation
 
-- [Condusom: an interactive musical synthesizer that transforms gestures captured by your webcam into a dynamic sonic expression](https://github.com/compmus-ime-usp/condusom)
+- [Artistic installation for ¿Música? 20](https://github.com/haruo-gabriel/instalacao-musica_20)
 
-### ime-embarcados-lib
-
-- [ime-embarcados-lib: DSP library for audio processing in embedded devices](https://github.com/viniciusfersil123/ime-embarcados-lib)
